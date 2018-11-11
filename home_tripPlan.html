@@ -1,0 +1,250 @@
+<!-- *** TRIP PLAN ***
+	_________________________________________________________ -->
+
+	<div class="section" id="references">
+		<div class="container">
+			<div class="col-sm-12">
+				<div class="mb20">
+					<h2 class="title" data-animate="fadeInUp">Events</h2>
+					<div class="row">
+						<div id="references-masonry2 col-md-4" style="position:relative;left:54px;" data-animate="fadeInUp">
+							<?php
+							require_once('manage.php');
+							 $data = showEventDataLimit();
+							 $data_decode = json_decode($data);
+							 
+							 /* If data is not found display the error message */
+							 if($data_decode == null){
+							 
+							   echo "<p style='color:red;text-align:center'>No record Found</p>";
+							 }else{
+		
+									foreach($data_decode as $result){
+							 ?>
+							 <div class="reference-item col-md-6" data-category="Idukki" style="height:225px;">
+								<div class="reference">
+							 <a href="#">
+								<img src="<?php echo $result->image; ?>" class="img-responsive" alt="" />
+										<div class="overlay">
+											<h3 class="reference-title"><?php echo $result->name; ?></h3>
+										</div>
+									</a>
+									<div class="sr-only reference-description" data-images="<?php echo $result->image; ?>">
+										<p><?php echo $result->description; ?></p>
+									</div>
+								</div>
+							</div>   
+		
+							<?php
+						}
+		
+					}
+						
+						?>
+		
+			
+							
+						</div>
+		
+					</div>
+					<p class="lead text-center" data-animate="fadeInUp">Search your locations on adventure mode or destination based</p>
+				</div>    
+		
+				<div class="row">
+					<div class="col-md-6">
+					
+						<div class="reference-item img-large search-category">
+							<div class="reference-custom" onclick="window.location = 'destinations.html';">
+								<span>
+									<div class ="imgContainer">
+										<img src="img/Jungle Safari4.jpg" class="img-responsive" alt="" />
+										<div class="txtCentered">
+											<h2>Jeep Safari</h2>
+										</div>
+									</div>
+								</span>    
+							</div>
+						</div>
+						</div> 
+				<div class="col-md-6">
+					
+						<div class="reference-item img-large search-category">
+							<div class="reference-custom" onclick="window.location = 'Events.php';">
+								<span>
+									<div class ="imgContainer">
+										<img src="Events_images/kathakali1.png" class="img-responsive" alt="" />
+										<div class="txtCentered">
+											<h2>Events</h2>
+										</div>
+									</div>
+								</span>    
+							</div>
+						</div>
+						</div> 
+					 	
+				</div>        
+				<div class="row">
+					<div class="col-md-6">
+						<div class="reference-item img-large search-category">
+							<div class="reference-custom" onclick="window.location = 'adventures.html';">
+								<span>
+									<div class ="imgContainer">
+										<img src="img/adventure.jpg" class="img-responsive" alt="" />
+										<div class="txtCentered">
+											<h2>Adventures</h2>
+										</div>
+									</div>  
+								</span>    
+							</div>
+						</div>
+					</div>
+					<div class="col-md-6">    
+						<div class="reference-item img-large search-category">
+							<div class="reference-custom" onclick="window.location = 'destinations.html';">
+								<span>
+									<div class ="imgContainer">
+										<img src="img/destination.jpg" class="img-responsive" alt="" />
+										<div class="txtCentered">
+											<h2>Destinations</h2>
+										</div>
+									</div>
+								</span>    
+							</div>
+						</div> 
+					</div>   
+					
+				</div>
+			</div>
+		</div>
+	</div>      
+	<div class="section"  id="about_us">
+		<div class="container">
+			<div class="row">
+			
+				<div  class="col-sm-12">
+				<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d245.86549443495136!2d77.1687325937408!3d9.60836127438875!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xf3eac46fa7dc3f2!2sThekkady+Jeep+Safari!5e0!3m2!1sen!2sin!4v1524551557750" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen=""></iframe>
+				</div>
+				<div class="col-sm-12">
+					<h2 class="title" data-animate="fadeInDown">About Us</h2>
+					<div>
+						<p>
+							Our Events
+							As informed by research, we run many different event types for the modern-day decision maker:
+							
+							conferences
+							exhibitions
+							forums
+							site visits
+							workshops
+							webcasts
+							award ceremonies
+							dinners
+							trade missions
+							briefings
+							competitions
+							We have a large portfolio of established, annual events - many of them the flagship events within their respective industries.
+							
+							We also continually launch new events in order to react swiftly to the research findings, and to provide of-the-moment business gatherings which address head-on the challenges of an ever changing global environment.
+						</p>
+					</div>
+				</div>
+				<div class="col-sm-12" id="contact1">
+					<h2 class="title">Contact Us</h2>
+					
+										<div class="row">
+					
+											<div class="col-md-8 col-md-offset-2">
+												<form id="contact-form" method="post" action="contact.php" role="form">
+					
+													<div class="messages">
+					
+													</div>
+					
+													<div class="controls">
+					
+														<div class="row">
+															<div class="col-md-6">
+																<input id="form_name" type="text" name="name" class="form-control" placeholder="Your firstname *" required="required" data-error="Firstname is required.">
+																<div class="help-block with-errors"></div>
+															</div>
+															<div class="col-md-6">
+																<input id="form_lastname" type="text" name="surname" class="form-control" placeholder="Your lastname *" required="required" data-error="Lastname is required.">
+																<div class="help-block with-errors"></div>
+															</div>
+															<div class="col-md-6">
+																<input id="form_email" type="email" name="email" class="form-control" placeholder="Your email *" required="required" data-error="Valid email is required.">
+																<div class="help-block with-errors"></div>
+															</div>
+															<div class="col-md-6">
+																<input id="form_phone" type="tel" name="phone" class="form-control" placeholder="Your phone">
+																<div class="help-block with-errors"></div>
+															</div>
+															<div class="col-md-12 text-center">
+																	<label class="custom-file-upload">
+																			<input type="file"/>
+																			Attach Your Tour Plan
+																		</label>
+															</div>
+															<div class="col-md-12" id="messagess">
+																<textarea id="messages" name="messages" class="form-control" placeholder="Message for me *" rows="4" required="required" data-error="Please,leave us a message."></textarea>
+															</div>
+															<div class="col-md-12 text-center">
+																<input type="submit" class="btn btn-primary btn-lg" value="Send message">
+															</div>
+														</div>
+													</div>
+					
+												</form>
+											</div>
+					
+										</div>
+					
+									</div>
+									
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="section text-gray" id="testimonials" data-animate="fadeInUp">
+		<div class="container">
+			<div class="mb20">
+				<h2 class="title" data-animate="fadeInUp">Testimonials</h2>
+			</div>
+			<div id="myCarousel" class="carousel slide" data-ride="carousel">
+				<!-- Indicators -->
+				<ol class="carousel-indicators"></ol>
+				<!-- Wrapper for slides -->
+				<div class="carousel-inner">
+					<div class="item active">
+						<img src="img/a43.jpg" alt="tuk tuk auto" style="width:100%;">
+					</div>
+
+					<div class="item">
+						<img src="img/k43.jpg" alt="kadhakali 365" style="width:100%;">
+					</div>
+
+					<!-- Left and right controls -->
+					<a class="left carousel-control" href="#myCarousel" data-slide="prev">
+						<span class="slide-control left"><i class="fa fa-angle-left" aria-hidden="true"></i></span>
+						<span class="glyphicons glyphicons-chevron-left"></span>
+						<span class="sr-only">Previous</span>
+					</a>
+					<a class="right carousel-control" href="#myCarousel" data-slide="next">
+						<span class="slide-control right"><i class="fa fa-angle-right" aria-hidden="true"></i></span>
+						<span class="sr-only">Next</span>
+					</a>
+				</div>
+
+
+				<!-- /.owl-carousel -->
+
+				<!-- /.12 -->
+			</div>
+			<!-- /.container -->
+
+		</div>
+		
+		<!-- /.section -->
+	</div>      
+	<!-- *** TRIP PLAN ENDS ***
+	_________________________________________________________ -->     
