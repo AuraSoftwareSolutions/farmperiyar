@@ -6,7 +6,7 @@
 		<meta charset="utf-8">
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
-		<title>Sandriya Tours and Advie</title>
+		<title>Farm Periyar Spices & Herbals</title>
 		<link rel="shortcut icon" type="image/x-icon" href="assets/img/logo.png">
 		<link href="https://fonts.googleapis.com/css?family=Raleway:300,400,700,800%7CLato:300,400,700" rel="stylesheet" type="text/css">
 		<link href="assets/css/bootstrap.min.css" rel="stylesheet" type="text/css">
@@ -58,7 +58,7 @@
 					<div class="row">
 						<div class="col-sm-7">
 							<p>
-								Welcome to Sandriya Tours and Advie
+								Welcome to Spices and Herbals
 							</p>
 						</div>
 						<div class="col-sm-5">
@@ -87,20 +87,20 @@
 									<li>
 										<i class="fa fa-map-marker"></i>
 										<p>
-											Our Location <span>karela, india</span>
+											<span>Near PeriyarHospital,Kumily</span>
+											<span>Kollampattada,Kerala - 685509</span>
 										</p>
 									</li>
 									<li>
 										<i class="fa fa-envelope"></i>
 										<p>
-											Mail Us <span>support@sundriya.com</span>
+											<span style="text-transform: lowercase;"> support@farmperiyar.com</span>
+											<span style="text-transform: lowercase;"> farmperiyar@gmail.com</span>
 										</p>
 									</li>
 									<li>
 										<i class="fa fa-phone"></i>
-										<p>
-											Call Us <span>(+974) </span>
-										</p>
+										<p><span>+91 9072846005</span></p>
 									</li>
 								</ul>
 							</div>
@@ -141,7 +141,7 @@
 									</ul> add this menu if you need to add dropdown --> 
 								</li>
 								<li>
-									<a href="gellary.php">Gellary</a>
+									<a href="package.php">Packages</a>
 								</li>
 								<li>
 									<a href="jeepsafari.php">jeep safari</a><span class="submenu-button"></span>
@@ -155,8 +155,10 @@
 
 									</ul> dropdown if needed -->
 								</li>
-
 								<li>
+									<a href="products.php">Products</a>
+								</li>
+								<!-- <li>
 									<a href="events.php">Events</a><span class="submenu-button"></span>
 									<!-- <ul class="dropdown-menu">
 										<li>
@@ -165,15 +167,11 @@
 										<li>
 											<a href="events-details.html">Blog Details</a>
 										</li>
-									</ul> if dropdown needed -->
-								</li>
+									</ul> if dropdown needed 
+								</li> -->
 								<li>
-									<a href="products.php">Products</a>
-								</li>
-
-								<li>
-									<a href="package.php">Packages</a>
-								</li>
+									<a href="gallery.php">Gallery</a>
+								</li>								
 
 								<li>
 									<a href="about.php">About Us</a>
