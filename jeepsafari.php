@@ -7,7 +7,7 @@
 
 			<!-- CONTENT -->
 			<!-- Intro Section -->
-			<div class="page-header parallax">
+			<div class="page-header parallax" style="padding:30px !important;">
 				<div class="container">
 					<h1 class="title">JEEP SAFARI</h1>
 				</div>
@@ -19,7 +19,7 @@
 									<a href="#">Home</a>
 								</li>
 								<li class="breadcrumb-item active" aria-current="page">
-									JEEP SAFARI PAGE
+									JeepSafari
 								</li>
 							</ol>
 						</nav>
@@ -33,13 +33,12 @@
 
 						<div class="col-md-12 col-lg-8">
 							<div class="heading-box pb-30">
-								<h2><span>Our</span> Safari</h2>
+								<h2><span>Jungle Jeep</span> Safari</h2>
 								<span class="b-line l-left"></span>
 							</div>
-							<div class="text-content">
+							<div style="width:150% !important;">
 								<p>
-									Aenean suscipit eget mi act fermentum phasellus vulputate turpis tincidunt. Aenean suscipit eget mi act fermentum phasellus vulputate turpis tincidunt.
-									Aenean suscipit eget mi act fermentum phasellus vulputate turpis tincidunt. Aenean suscipit eget mi act fermentum phasellus vulputate turpis tincidunt.
+								  This is one of the most popular programmes in Thekkady,a popular off-the-track activity, the Jeep Safari to Gavi covers the dense forests, waterfalls, spice plantations, and green vegetation ideal for a wilderness retreat replete with trekking, birding, canoeing and facilities for boarding.. For those who do not wish to explore the beauty of the quaint lands, jeep safari is a perfect substitute to hiking tours.
 								</p>
 							</div>
 

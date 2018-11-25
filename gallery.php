@@ -7,57 +7,23 @@
 
 			<!-- CONTENT -->
 			<!-- Intro Section -->
-			<div class="page-header parallax">
-				<div class="container">
-					<h1 class="title">Gellary PAGE</h1>
-				</div>
-				<div class="breadcrumb-box">
-					<div class="container">
-						<nav aria-label="breadcrumb" role="navigation">
+			<div class="page-header parallax">					
+				<section class="padding ptb-xs-40 project_bg">
+			<div class="container">
+			            <nav aria-label="breadcrumb" role="navigation">
 							<ol class="breadcrumb">
 								<li class="breadcrumb-item">
 									<a href="#">Home</a>
 								</li>
 								<li class="breadcrumb-item active" aria-current="page">
-									Gellary 
+									Gallery 
 								</li>
 							</ol>
 						</nav>
-					</div>
-				</div>
-			</div>
-			<!-- End Intro Section -->
-			<div class=" padding ptb-xs-60">
-				<div class="container">
-					<div class="row">
-
-						<div class="col-md-12 col-lg-8">
-							<div class="heading-box pb-30">
-								<h2><span>Our</span> Gellary</h2>
-								<span class="b-line l-left"></span>
-							</div>
-							<div class="text-content">
-								<p>
-									Aenean suscipit eget mi act fermentum phasellus vulputate turpis tincidunt. Aenean suscipit eget mi act fermentum phasellus vulputate turpis tincidunt.
-									Aenean suscipit eget mi act fermentum phasellus vulputate turpis tincidunt. Aenean suscipit eget mi act fermentum phasellus vulputate turpis tincidunt.
-								</p>
-							</div>
-
-						</div>
-					</div>
-				</div>
-			</div>
-			<!--End Contact-->
-
-
-
-			<!-- Project-->
-		<section class="padding ptb-xs-40 project_bg">
-			<div class="container">
 				<div class="row pb-50 pb-xs-30">
 					<div class="col-lg-4">
 						<div class="sec-title">
-							<h2>Gellary</h2>
+							<!-- <h2>Gellary</h2> -->
 						</div>
 						</div>
 						<div class="col-lg-8 d-flex justify-content-end">
@@ -207,4 +173,32 @@
 				</div>
 			</div>
 		</section>
+			</div>
+			<!-- End Intro Section 
+			<div class=" padding ptb-xs-60">
+				<div class="container">
+					<div class="row">
+
+						<div class="col-md-12 col-lg-8">
+							<div class="heading-box pb-30">
+								<h2><span>Our</span> Gellary</h2>
+								<span class="b-line l-left"></span>
+							</div>
+							<div class="text-content">
+								<p>
+									Aenean suscipit eget mi act fermentum phasellus vulputate turpis tincidunt. Aenean suscipit eget mi act fermentum phasellus vulputate turpis tincidunt.
+									Aenean suscipit eget mi act fermentum phasellus vulputate turpis tincidunt. Aenean suscipit eget mi act fermentum phasellus vulputate turpis tincidunt.
+								</p>
+							</div>
+
+						</div>
+					</div>
+				</div>
+			</div>
+			End Contact-->
+
+
+
+			<!-- Project-->
+		
 <?php include 'footer.php' ?>
