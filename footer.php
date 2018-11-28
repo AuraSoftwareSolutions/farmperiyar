@@ -5,16 +5,17 @@
 				<!--Footer Info -->
 				<div class="row footer-info mb-60">
 					<div class="col-lg-3 col-md-4 col-xs-12 mb-sm-30">
-						<h4 class="mb-30 text-uppercase">CONTACT Us</h4>
+						<h4 class="mb-30 text-uppercase">CONTACT US</h4>
 						<address>
-							<i class="fa fa-map-marker"></i> Pappis Tower, Thekkady, Kumily, Tamil Nadu 685509
+							<i class="fa fa-map-marker"></i> Near Periyar Hospital,Kollampattada
+							                                 Kumily,Kerala - 685509
 						</address>
 						<ul class="link-small">
 							<li>
-								<a href="mailto:business@support.com"><i class="fa fa-envelope"></i>imranmostak@support.com</a>
+								<a href="mailto:farmperiyar@gmail.com"><i class="fa fa-envelope"></i>support@farmperiyar.com</a>
 							</li>
 							<li>
-								<a><i class="fa fa-phone"></i>+974 </a>
+								<a><i class="fa fa-phone"></i>+91 9072846005</a>
 							</li>
 						</ul>
 						<div class="icons-hover-black">
@@ -22,7 +23,7 @@
 						</div>
 					</div>
 					<div class="col-lg-2 col-md-3 col-xs-12 mb-sm-30">
-						<h4 class="mb-30 text-uppercase">Links</h4>
+						<!-- <h4 class="mb-30 text-uppercase">Links</h4>
 						<ul class="link blog-link">
 							<li>
 								<a href="javascript:avoid(0);"><i class="fa fa-angle-double-right"></i> About Us</a>
@@ -36,17 +37,31 @@
 							<li>
 								<a href="javascript:avoid(0);"><i class="fa fa-angle-double-right"></i> Terms &amp; condition</a>
 							</li>
-						</ul>
+						</ul>-->
 					</div>
-					<div class="col-lg-3 col-md-5 col-xs-12 mb-sm-30">
-						<h4 class="mb-30 text-uppercase">Latest Blog</h4>
+					 <div class="col-lg-3 col-md-5 col-xs-12 mb-sm-30">
+					 <h4 class="mb-30 text-uppercase">Links</h4>
+						<ul class="link blog-link">
+							<li>
+								<a href="javascript:avoid(0);"><i class="fa fa-angle-double-right"></i> About Us</a>
+							</li>
+							<li>
+								<a href="javascript:avoid(0);"><i class="fa fa-angle-double-right"></i> Services</a>
+							</li>
+							<!--<li>
+								<a href="javascript:avoid(0);"><i class="fa fa-angle-double-right"></i> Privacy policy</a>
+							</li>
+							<li>
+								<a href="javascript:avoid(0);"><i class="fa fa-angle-double-right"></i> Terms &amp; condition</a>
+							</li>-->
+						</ul>
 						<div class="widget-details link">
 							<div class="post-type-post media mb-xs-30">
 								<div class="entry-thumbnail media-left">
-									<img src="assets/img/small-service2.png" alt="Image">
+									<!-- <img src="assets/img/small-service2.png" alt="Image"> -->
 								</div>
-								<!-- /.entry-thumbnail -->
-								<div class="post-content media-body">
+								
+								<!-- <div class="post-content media-body">
 									<p class="entry-title">
 										<a href="javascript:avoid(0);">Lorem Ipsum is simply dummy text..</a>
 									</p>
@@ -56,16 +71,16 @@
 											10 Feb, 2016
 										</time>
 									</div>
-									<!-- /.post-meta -->
-								</div>
-								<!-- /.post-content -->
+									
+								</div>-->
+								
 							</div>
 							<div class="post-type-post media">
 								<div class="entry-thumbnail media-left">
-									<img src="assets/img/small-service.png" alt="Image">
+									<!-- <img src="assets/img/small-service.png" alt="Image"> -->
 								</div>
-								<!-- /.entry-thumbnail -->
-								<div class="post-content media-body">
+								
+								<!-- <div class="post-content media-body">
 									<p class="entry-title">
 										<a href="javascript:avoid(0);">Lorem Ipsum is simply dummy text..</a>
 									</p>
@@ -75,9 +90,9 @@
 											10 Feb, 2016
 										</time>
 									</div>
-									<!-- /.post-meta -->
-								</div>
-								<!-- /.post-content -->
+									
+								</div> -->
+								
 							</div>
 						</div>
 					</div>
@@ -102,7 +117,7 @@
 			<div class="copyright">
 				<div class="container">
 					<p class="">
-						© 2018 <a><b>imranhossain</b></a>. All Rights Reserved.
+						© 2018 <a><b>FarmPeriyar</b></a>. All Rights Reserved.
 					</p>
 				</div>
 			</div>

@@ -10,9 +10,9 @@
 				<div id="rev_slider_34_1" class="rev_slider" data-version="5.0.7">
 					<ul>
 						<!-- SLIDE  -->
-						<li data-index="rs-129"  >
+						<li data-index="rs-129" data-title="ayurveda" data-description="">
 							<!-- MAIN IMAGE -->
-							<img src="assets/img/bannerbg2.png"  alt=""  class="rev-slidebg" >
+							<img src="assets/img/Ayurveda-1.jpg"  alt=""  class="rev-slidebg" >
 							<!-- LAYERS -->
 							<!-- LAYER NR. 2 -->
 							<div class="tp-caption Newspaper-Title tp-resizeme "
@@ -35,20 +35,20 @@
 							data-responsive_offset="on" >
 								<div class="banner-text text-center">
 
-									<h2>Let us care &amp;<span> Share your Trips</span></h2>
+									<h2>Energize your body <span> Stimulate your mind</span><br> <span> Calm your soul</span></h2>
 									<p>
-										There are many variations of passages of Lorem Ipsum available, but the majority majority lorem amet ipsum dummy
+									Ayurveda is a consciousness based approach to health, a spiritual medicine recognizing the phenomenal intelligence in every grain,every seed,all life and every living thing.
 									</p>
-									<a class="btn-text green-bg" href="#"> Learn More</a>
+									<!-- <a class="btn-text green-bg" href="#"> Learn More</a> -->
 								</div>
 							</div>
 						</li>
 						<!-- SLIDE  -->
 
 						<!-- SLIDE  -->
-						<li data-index="rs-129"  >
+						<li data-index="rs-130" data-title="spices" data-description="">
 							<!-- MAIN IMAGE -->
-							<img src="assets/img/bannerbg3.jpg"  alt=""  class="rev-slidebg" >
+							<img src="assets/img/spices.jpg"  alt=""  class="rev-slidebg" >
 							<!-- LAYERS -->
 							<!-- LAYER NR. 2 -->
 							<div class="tp-caption Newspaper-Title tp-resizeme "
@@ -71,18 +71,18 @@
 							data-responsive_offset="on" >
 								<div class="banner-text text-center">
 
-									<h2>Let us care &amp;<span> Share your Trips</span></h2>
+									<h2>Make your food with<span> love</span></h2>
 									<p>
-										There are many variations of passages of Lorem Ipsum available, but the majority majority lorem amet ipsum dummy
+									   Just as food absorbs the flavor of spices, it also absorbs the attitudes of those that cook and serve it.
 									</p>
-									<a class="btn-text green-bg" href="#"> Learn More</a>
+									<!-- <a class="btn-text green-bg" href="#"> Learn More</a>-->
 								</div>
 							</div>
 						</li>
 						<!-- SLIDE  -->
-						<li data-index="rs-130" data-title="" data-description="">
+						<li data-index="rs-131" data-title="packages" data-description="">
 							<!-- MAIN IMAGE -->
-							<img src="assets/img/bannerbg.png"  alt=""  class="rev-slidebg" >
+							<img src="assets/img/bannerbg.jpg"  alt=""  class="rev-slidebg" >
 							<!-- LAYERS -->
 							<!-- LAYER NR. 2 -->
 							<div class="tp-caption Newspaper-Title   tp-resizeme "
@@ -104,19 +104,45 @@
 							data-splitout="none"
 							data-responsive_offset="on">
 								<div class="banner-text text-center">
-
-									<h2>We Provide Best <span> lawn Service</span></h2>
-									<p>
-										There are many variations of passages of Lorem Ipsum available, but the majority majority lorem amet ipsum dummy
-									</p>
-									<a class="btn-text green-bg" href="#"> Learn More</a>
+									<h2>Travel <span> As much as you can</span> As far as you can</h2>
+									<p><i>Life is not meant to be lived in just one place</i></p>
 								</div>
 							</div>
 						</li>
 						<!-- SLIDE  -->
-						<li data-index="rs-131">
+						<li data-index="rs-132">
 							<!-- MAIN IMAGE -->
-							<img src="assets/img/bannerbg5.jpg"  alt=""  class="rev-slidebg" >
+							<img src="assets/img/kathakali_welcome.jpg"  alt=""  class="rev-slidebg" >
+							<!-- LAYERS -->
+							<!-- LAYER NR. 2 -->
+							<div class="tp-caption Newspaper-Title   tp-resizeme "
+							id="slide-131-layer-1"
+							data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
+							data-y="['center','center','center','center']" data-voffset="['0','0','0','0']"
+							data-fontsize="['50','50','50','30']"
+							data-lineheight="['55','55','55','35']"
+							data-width="['600','600','600','420']"
+							data-height="none"
+							data-whitespace="normal"
+							data-transform_idle="o:1;"
+							data-transform_in="y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:1500;e:Power3.easeInOut;"
+							data-transform_out="auto:auto;s:1000;e:Power3.easeInOut;"
+							data-mask_in="x:0px;y:0px;s:inherit;e:inherit;"
+							data-mask_out="x:0;y:0;s:inherit;e:inherit;"
+							data-start="1000"
+							data-splitin="none"
+							data-splitout="none"
+							data-responsive_offset="on">
+								<div class="banner-text text-center">
+                                    <h2>Enjoy The Experience,<span> Don't Just Experience</span><br> The Experience</h2>
+									<p>A nation's culture resides in the hearts and in the soul of it's people</p>																		
+								</div>
+							</div>
+						</li>
+						<!-- SLIDE  -->
+						<li data-index="rs-133">
+							<!-- MAIN IMAGE -->
+							<img src="assets/img/jeepsafari.jpg"  alt=""  class="rev-slidebg" >
 							<!-- LAYERS -->
 							<!-- LAYER NR. 2 -->
 							<div class="tp-caption Newspaper-Title   tp-resizeme "
@@ -139,19 +165,15 @@
 							data-responsive_offset="on">
 								<div class="banner-text text-center">
 
-									<h2>We Provide Best <span> lawn Service</span></h2>
-									<p>
-										There are many variations of passages of Lorem Ipsum available, but the majority majority lorem amet ipsum dummy
-									</p>
-									<a class="btn-text green-bg" href="#"> Learn More</a>
+									<h2>Nature is not a place to visit , <span> It is home </span></h2>
+									<p>The clearest way into the universe is through a forest wilderness</p>									
 								</div>
 							</div>
 						</li>
 						<!-- SLIDE  -->
-						<!-- SLIDE  -->
-						<li data-index="rs-129"  >
+						<li data-index="rs-130" data-title="spices" data-description="">
 							<!-- MAIN IMAGE -->
-							<img src="assets/img/bannerbg3.jpg"  alt=""  class="rev-slidebg" >
+							<img src="assets/img/spices.jpg"  alt=""  class="rev-slidebg" >
 							<!-- LAYERS -->
 							<!-- LAYER NR. 2 -->
 							<div class="tp-caption Newspaper-Title tp-resizeme "
@@ -174,11 +196,11 @@
 							data-responsive_offset="on" >
 								<div class="banner-text text-center">
 
-									<h2>Let us care &amp;<span> Share your Trips</span></h2>
+									<h2>Make your food with<span> love</span></h2>
 									<p>
-										There are many variations of passages of Lorem Ipsum available, but the majority majority lorem amet ipsum dummy
+									   Just as food absorbs the flavor of spices, it also absorbs the attitudes of those that cook and serve it.
 									</p>
-									<a class="btn-text green-bg" href="#"> Learn More</a>
+									<!-- <a class="btn-text green-bg" href="#"> Learn More</a>-->
 								</div>
 							</div>
 						</li>
@@ -199,7 +221,7 @@
 
 								<h2>Medicine Corner</h2>
 								<p>
-									We crated almost 100 of natural medicine and so on.. text your medicine details here..
+									We crated almost 100 of natural medicine and so on.. text your medicine details here..<br>&nbsp;&nbsp;&nbsp;&nbsp;<br><br>
 								</p>
 								<a href="#!" class="btn-text green-bg btn_new">Read More</a>
 							</div>
@@ -244,13 +266,14 @@
 
 					<div class="col-lg-6 push-lg-6">
 						<div class="promor_wrap__block">
-							<h3>We helping small business</h3>
-							<h2>About <span>Sandriya</span></h2>
-
+							<!-- <h3>We helping small business</h3>-->
+							<h2>FarmPeriyar</h2>
 							<p>
-								Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim aquis nostrud exercitatio ullamco laboris nisi ut aliquip ex ea commodo consequat orem ipsum dolor.
+							Visit FarmPeriyar Spices & Herbal Garden in Thekkady to see many different types of spices Kerala is famous for.The FarmPeriyar spices and Herbal gardens are among the best on the state. You will be introduced to different spices and shown how some of these spices are grown and processed.
+Gardens are open to visitors with the help of a guide who could speak many languages, a delightful place to stroll in fragrant greenery and learn about nutmeg, pepper vines, clove trees and curry, cinnamon and the precious cardamom, a relative of ginger. It grows in the shade of high jungle trees and can only be harvested by hand. 
+Visitors may buy spices, traditional remedies and cosmetics, taste a herbal brew and in some venues, enjoy the full flavors of Kerala spices.
 							</p>
-
+                           <!-- Features and Achievements -->
 							<div class="row">
 
 								<div class="col-sm-6">
@@ -278,12 +301,13 @@
 									</div>
 								</div>
 
-							</div>
+							</div> 
 						</div>
 					</div>
 
 					<div class="col-lg-6 pull-lg-6 mt-sm-30 mt-xs-30">
-						<img src="assets/img/sandriya_house.png" alt="" class="img-responsive">
+						<!--<img src="assets/img/sandriya_house.png" alt="" class="img-responsive"> -->
+						<img src="assets/img/spicesgarden.jpg" alt="" class="img-responsive">
 					</div>
 				</div>
 			</div>
@@ -297,9 +321,7 @@
 					<div class="col-md-8 offset-md-2 col-lg-6 offset-lg-3">
 						<div class="creative_heading">
 							<h2> Our <span>Services</span></h2>
-							<p>
-								Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-							</p>
+							<p> We have diversified our services to Tour packages, Kerala Houseboat bookings and Jungle Jeep safari. We have an Ayurvedic medicine store, where you can purchase any ayurvedic products from us at a reduced cost </p>
 						</div>
 
 					</div>
@@ -310,20 +332,18 @@
 
 						<div class="about-block black-bg light-color hover-bg d-flex align-items-center flex-column flex-sm-row">
 							<div class="fl half-width">
-								<img class="img-responsive" src="assets/img/events1.png" alt="Photo">
+								<img class="img-responsive" src="assets/img/munnar.jpg" alt="Photo">
 							</div>
 							<div class="text-box padding-20 d-flex flex-column half-width text-center text-md-left">
 
 								<div class="box-title">
 
-									<h3 class="mt-0"><a href="#">Tours</a></h3>
+									<h3 class="mt-0"><a href="#">Kerala Tour Packages</a></h3>
 								</div>
-
 								<div>
 									<p>
-										Lorem ipsum dolor sit amet, consectetur elit sed do eiusmod tempor incididunt
-									</p>
-
+									   Kochi,Alappuzha,Wayanad,Valparai, Athirappally,Parambikkulam,Malabar, Trivandrum & Ponmudi, Munnar
+									</p>                                    
 								</div>
 							</div>
 						</div>
@@ -331,7 +351,7 @@
 					<div class="col-sm-12 col-lg-6 pl-0 plr-xs-15 mb-xs-30">
 						<div class="about-block black-bg light-color hover-bg d-flex align-items-center flex-column flex-sm-row">
 							<div class="fl float-right-sm half-width flex-sm-last flex-lg-first">
-								<img class="img-responsive" src="assets/img/events2.png" alt="Photo">
+								<img class="img-responsive" src="assets/img/kalaripayattu.png" alt="Photo">
 							</div>
 							<div class="text-box padding-20 d-flex flex-column half-width text-center text-md-right text-lg-left">
 
@@ -342,7 +362,7 @@
 
 								<div>
 									<p>
-										Lorem ipsum dolor sit amet, consectetur elit sed do eiusmod tempor incididunt
+										We are organizing events  like Kathakali,Kalaripayattu and Magic show for our guests.
 									</p>
 
 								</div>
@@ -352,20 +372,20 @@
 					<div class="col-sm-12 col-lg-6 pr-0 plr-xs-15 mb-xs-30">
 						<div class="about-block black-bg light-color hover-bg d-flex align-items-center flex-column flex-sm-row">
 							<div class="fr float-left-sm half-width flex-lg-last">
-								<img class="img-responsive" src="assets/img/events3.png" alt="Photo">
+								<img class="img-responsive" src="assets/img/Jeepsafari-2.png" alt="Photo">
 							</div>
 							<div class="text-box padding-20 d-flex flex-column half-width text-center text-md-left text-lg-right">
 
 								<div class="box-title">
 
-									<h3 class="mt-0"><a href="#">Best Booking</a></h3>
+									<h3 class="mt-0"><a href="#">Jeep Safari</a></h3>
 								</div>
 
 								<div>
 									<p>
-										Lorem ipsum dolor sit amet, consectetur elit sed do eiusmod tempor incididunt
+									  Thekkady jeep safari takes a traveler to best view of thekkady wildlife with plenty of thrill and joy.The Jeep Safari to Gavi covers the dense forests and waterfalls.
 									</p>
-
+                                    
 								</div>
 							</div>
 						</div>
@@ -373,18 +393,17 @@
 					<div class="col-sm-12 col-lg-6 pl-0 plr-xs-15 mb-xs-30">
 						<div class="about-block black-bg light-color hover-bg d-flex align-items-center flex-column flex-sm-row">
 							<div class="fr half-width flex-md-last">
-								<img class="img-responsive" src="assets/img/events4.png" alt="Photo">
+								<img class="img-responsive" src="assets/img/pepper-1.png" alt="Photo">
 							</div>
 							<div class="text-box padding-20 d-flex flex-column half-width text-center text-md-right">
 
 								<div class="box-title">
-
-									<h3 class="mt-0"><a href="#">Management</a></h3>
+									<h3 class="mt-0"><a href="#">Spices Garden</a></h3>
 								</div>
 
 								<div>
 									<p>
-										Lorem ipsum dolor sit amet, consectetur elit sed do eiusmod tempor incididunt
+									  Enjoy Kerala’s world renowned spices at their source. Visit our spice garden, where smells of cinnamons, pepper, cardamom, nutmeg and mace overwhelm the senses
 									</p>
 
 								</div>
@@ -397,7 +416,8 @@
 		</div>
 		<!-- Project Section -->
 
-		<!-- Project Section -->
+		<!-- Project Section recent events -->
+		<!--
 		<div class="dark-bg project-section clearfix">
 
 			<div class="width-25per dark-bg fl">
@@ -408,10 +428,8 @@
 					</div>
 					<div class="block-content">
 
-						<p class="pt-20 mb-30">
-							Lorem Ipsum is simply dummy text.. printing and typesetting industry.
-							Lorem Ipsum is simply dummy text.. printing and typesetting industry.
-							Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. constructio interrete.
+						<p class="pt-20 mb-30">		
+							We are organizing cultural programes and events for our guests to entertain them.
 						</p>
 
 					</div>
@@ -422,11 +440,10 @@
 					<div class="item">
 						<div class="clearfix bg-area">
 							<div class="image-box">
-								<img class="img-responsive" src="assets/img/hill.png" alt="Photo">
-
+								<img class="img-responsive" src="assets/img/kathakali-1.jpg" alt="Photo">
 							</div>
 							<div class="content-box">
-								<h4>Hill Climbing</h4>
+								<h4>Kathakali</h4>
 								<p>
 									Lorum ipsum iure reprhe pu nderit sit amet,consectetur neque.
 								</p>
@@ -441,11 +458,11 @@
 					<div class="item">
 						<div class="clearfix bg-area">
 							<div class="image-box">
-								<img class="img-responsive" src="assets/img/kathakkali.png" alt="Photo">
+								<img class="img-responsive" src="assets/img/kalaripayattu-1.jpg" alt="Photo">
 
 							</div>
 							<div class="content-box">
-								<h4>Kathakkali</h4>
+								<h4>Kalaripayattu</h4>
 								<p>
 									Lorum ipsum iure reprhe pu nderit sit amet,consectetur neque.
 								</p>
@@ -460,12 +477,12 @@
 					<div class="item">
 						<div class="clearfix bg-area">
 							<div class="image-box">
-								<img class="img-responsive" src="assets/img/vacation.png" alt="Photo">
+								<img class="img-responsive" src="assets/img/magic_show.jpg" alt="Photo">
 
 							</div>
 							<div class="content-box">
 
-								<h4>Vacational Trip</h4>
+								<h4>MagicShow</h4>
 								<p>
 									Lorum ipsum iure reprhe pu nderit sit amet,consectetur neque.
 								</p>
@@ -480,10 +497,10 @@
 				</div>
 			</div>
 
-		</div>
+		</div>-->
 		<!-- Project Section -->
 
-		<!-- Team -->
+		<!-- Our Team 
 		<section id="team" class="padding ptb-xs-40 ">
 			<div class="container">
 				<div class="row pb-30 text-center">
@@ -545,15 +562,13 @@
 				</div>
 			</div>
 		</section>
-		<!-- Team_End -->
+		 OurTeam_End -->
 
-		<!-- choose_us -->
+		<!-- choose_us 
 		<section id="choose_us" class="padding ptb-xs-40 pt-xs-0 overflow_hidden secondary_bg">
-			<div class="image_cover image_cover_right"></div>
-			<!-- half image background element -->
+			<div class="image_cover image_cover_right"></div>			
 			<div class="container">
 				<div class="row">
-
 					<div class="col-lg-8 mt-sm-30 mt-xs-30">
 						<div class="row">
 							<div class="col-md-8 offset-md-2 offset-lg-0">
@@ -627,20 +642,17 @@
 
 						</div>
 
-					</div>
-					<!-- .col-* -->
+					</div>					
 					<div class="col-lg-4 to_animate" data-animation="fadeInRight">
 						<a href="http://www.youtube.com/watch?v=mcixldqDIEQ" class="embed-placeholder" data-gal="prettyPhoto[gal-video]"> </a>
 					</div>
-					<!-- .col-* -->
-
 				</div>
 			</div>
 
 		</section>
-		<!--End choose_us -->
+		 End choose_us -->
 
-		<!-- blog -->
+		<!-- our trips 
 		<section id="blog" class="padding ptb-xs-40  gray-bg new-blog">
 			<div class="container">
 				<div class="row pb-30 text-center">
@@ -722,7 +734,7 @@
 				</div>
 			</div>
 		</section>
-		<!-- BLog_End -->
+		 our trips_End -->
 
 <?php
 
