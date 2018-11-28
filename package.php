@@ -30,12 +30,7 @@
 							</div>
 
 						</div>
-					</div>
-					<div class="row">
-					    <div class="col-lg-12">
-						     
-						</div>
-					</div>
+					</div>					
 					<div class="row">
 					    <div class="col-lg-12">
 						    <div class="row container-grid nf-col-3">

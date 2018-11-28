@@ -372,7 +372,7 @@ Visitors may buy spices, traditional remedies and cosmetics, taste a herbal brew
 					<div class="col-sm-12 col-lg-6 pr-0 plr-xs-15 mb-xs-30">
 						<div class="about-block black-bg light-color hover-bg d-flex align-items-center flex-column flex-sm-row">
 							<div class="fr float-left-sm half-width flex-lg-last">
-								<img class="img-responsive" src="assets/img/jeepsafari-2.png" alt="Photo">
+								<img class="img-responsive" src="assets/img/Jeepsafari-2.png" alt="Photo">
 							</div>
 							<div class="text-box padding-20 d-flex flex-column half-width text-center text-md-left text-lg-right">
 
