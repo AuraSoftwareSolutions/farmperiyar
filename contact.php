@@ -9,7 +9,7 @@
 			<!-- Intro Section -->
 			<div class="page-header parallax">
 				<div class="container">
-					<h1 class="title">CONTACT</h1>
+					<h1 class="title">CONTACT US</h1>
 				</div>
 				<div class="breadcrumb-box">
 					<div class="container">
@@ -19,7 +19,7 @@
 									<a href="#">Home</a>
 								</li>
 								<li class="breadcrumb-item active" aria-current="page">
-									CONTACT
+									CONTACT US
 								</li>
 							</ol>
 						</nav>
@@ -33,11 +33,11 @@
 					<div class="row text-center">
 						<div class="col-md-8 offset-md-2 text-center">
 							<div class="heading-box pb-30">
-								<h2>Keep in Touch</h2>
+								<h2>Contact Us</h2>
 								<span class="b-line"></span>
 							</div>
 							<p class="lead">
-								Nullam dictum felis eu pede mollis pretium leo eget bibendum sodales augue velit cursus. tellus eget condimentum rhoncus sem quam semper libero.
+								You can contact us any way that is convenient for you. We are available 24/7 via fax, email or telephone. You can also use a quick contact form located on this page to ask a question about our services. We would be happy to answer your questions or offer any help.
 							</p>
 						</div>
 					</div>
@@ -45,18 +45,25 @@
 						<div class="col-sm-12 contact pb-60 pt-30">
 							<div class="row text-center">
 								<div class="col-sm-4 pb-xs-30">
-									<i class="ion-android-call icon-circle pos-s"></i><a href="#" class="mt-15 i-block">+97 123-1234</a>
+									<i class="ion-android-call icon-circle pos-s"></i>
+									<!--<a href="#" class="mt-15 i-block">+91 9562262638</a><br/>
+									<a href="#" class="mt-15 i-block">+91 9744046007</a><br/>
+									<a href="#" class="mt-15 i-block">+91 9745925143</a><br/>-->
+									<a href="#" class="mt-15 i-block">+91 9072846005</a>
 								</div>
 								<div class="col-sm-4 pb-xs-30">
 									<i class="ion-ios-location icon-circle pos-s"></i>
 									<p  class="mt-15">
-										123 Main Street, Kerella,
+										Near Periyar Hospital,Kollampattada,
 										<br />
-										1 Water park, India.
+										Kumily,Kerala - 685509.
 									</p>
 								</div>
 								<div class="col-sm-4 pb-xs-30">
-									<i class="ion-ios-email icon-circle pos-s"></i><a href="mailto:business@support.com"  class="mt-15 i-block">safari@support.com</a>
+									<i class="ion-ios-email icon-circle pos-s"></i>
+									   <a href="mailto:support@farmperiyar.com"  class="mt-15 i-block">support@farmperiyar.com</a>
+									   <br/>
+									   <a href="mailto:farmperiyar@gamil.com"  class="mt-15 i-block">farmperiyar@gmail.com</a>
 								</div>
 							</div>
 						</div>
@@ -71,12 +78,9 @@
 					<div class="row">
 						<div class="col-sm-12">
 							<div class="headeing pb-20">
-								<h2>Get in Touch</h2>
+								<h2>Get In Touch</h2>
 								<span class="b-line"></span>
-							</div>
-							<p>
-								Nullam dictum felis eu pede mollis pretium.
-							</p>
+							</div>							
 							<!-- Contact FORM -->
 							<form class="contact-form mt-45" id="contact">
 								<!-- IF MAIL SENT SUCCESSFULLY -->
@@ -104,17 +108,14 @@
 										</div>
 									</div>
 									<div class="col-sm-12 mt-30">
-										<button class="btn-text" type="button" id="submit" name="button">
+										<button class="newsletter-btn btn btn-xs btn-color" type="submit" id="submit" name="button">
 											Send Message
 										</button>
 									</div>
 								</div>
-							</form>
-							<!-- END Contact FORM -->
+							</form>							
 						</div>
 					</div>
 				</div>
-			</section>
-			<!-- Contact Section -->
-			<!--End Contact-->
+			</section>			
 <?php include 'footer.php' ?>
